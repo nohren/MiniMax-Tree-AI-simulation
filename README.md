@@ -2,7 +2,7 @@
 This simulation is based off of the "Don't take the last Teddy" game by Dr. Tim "Dr. T" Chamillard.  It is played machine against machine.  It simulates alternating levels of difficulty.  Player difficulty is determined by tree node search depth.
 
 **Premise**
-This webGL game runs 100 simulations! it will take around 2 min hardware depdant to finish.  In the end you will see the breakdown of winning games for each player.
+This webGL game runs 100 simulations! it will take around 2 min hardware dependant to finish.  In the end you will see the breakdown of winning games for each player.
 
 https://orennelson.github.io/MiniMax-Tree-AI-simulation/
 
