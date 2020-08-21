@@ -27,4 +27,7 @@ This process continues until there is only one teddy bear left and bot a or b lo
 
 
 **Results**
-Observation 1: **Seizing the initiative is a HUGE advantage**: Bot A won more than Bot B of equal or lesser skill simply because Bot A goes first.
+
+Observation 1: 
+
+**Seizing the initiative is a HUGE advantage**: Bot A won more than Bot B of equal or lesser skill simply because Bot A goes first.
