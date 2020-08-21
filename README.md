@@ -36,6 +36,6 @@ Observation 1:
 
 Observation 2:
 
-**Forsee the checkmate first! Envision farther out than your opponent**: Bot B despite having lost the initiative, won more than A, when it had greater skill.  Meaning the advantage of initiative is cancelled out when the defensive opponent has greater skill foreseeing the future i.e seeing the most advantagous moves for each player several moves into the future and the checkmate condition (for each possible move right now and selecting the best one). Forseeing all the depth on all the breadth. This increases to 1.5x advantage despite the loss of intiative when skill is overmatched. ( Bot B - hard vs. Bot A- easy).  Imagine what happens when you seize the initiative and forsee the checkmate first.
+**Forsee the checkmate first! Envision farther out than your opponent**: Bot B despite having lost the initiative, won more than A, when it had greater skill.  Meaning the advantage of initiative is cancelled out when the defensive opponent has greater skill foreseeing the future i.e seeing each players choices down the line into the future and the checkmate condition if one exists.  In other words, forseeing all the depth on all the breadth.  Then choosing the path with the checkmate.  This increases to 1.5x advantage despite the loss of intiative when skill is overmatched. ( Bot B - hard vs. Bot A- easy).  Imagine what happens when you seize the initiative and forsee the checkmate first.
 
 
