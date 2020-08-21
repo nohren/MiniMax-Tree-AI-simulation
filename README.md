@@ -7,7 +7,7 @@ This webGL game runs 100 simulations! it will take around 2 min hardware depdant
 https://orennelson.github.io/MiniMax-Tree-AI-simulation/
 
 **Winning condition**
-The player that takes the last teddy bear loses.  The other player wins.  The goal is to influence the course of events so that the other player takes the last teddy bear.  The bots can see down the tree (future results of current decion) to make their choices.  It is important to note, that despite the path that a player takes, the enemy has a say, and the very next will change that path, unless the path is "check-mate" i.e the other player has no viable winning options i.e backed into a corner.  
+The player that takes the last teddy bear loses.  The other player wins.  The goal is to influence the course of events so that the other player takes the last teddy bear.  The bots can see down the tree (future results of a decision) to make their decision.  It is important to note, that despite the path that a player takes, the enemy has a say, and the very next move will change that path, unless the path is "check-mate" i.e the other player has no viable winning options i.e backed into a corner.  
 
 **Difficulty level:**
  
