@@ -4,6 +4,8 @@ This game is based off of the "Don't take the last Teddy" game by Dr. Tim "Dr. T
 **Premise**
 This webGL game runs 100 simulations! it will take around 2 min hardware depdant to finish.  In the end you will see the breakdown of winning games for each player.
 
+https://orennelson.github.io/MiniMax-Tree-AI-simulation/
+
 **Winning condition**
 The player that takes the last teddy bear loses.  The other player wins.  The goal is to influence the course of events to the other player takes the last teddy bear.  The bots can see down the tree to see who will take the last one to make their choices.  It is important to note, that despite the path that a player takes, the enemy has a say, and the very next move can change that path.  
 
@@ -30,4 +32,7 @@ This process continues until there is only one teddy bear left and bot a or b lo
 
 Observation 1: 
 
-**Seizing the initiative is a HUGE advantage**: Bot A won 2x more than Bot B of equal or lesser skill simply because Bot A goes first.
+**Seizing the initiative, it's a 2x advantage**: Bot A won 2x more than Bot B of equal or lesser skill simply because Bot A goes first.
+
+Observation 2:
+
