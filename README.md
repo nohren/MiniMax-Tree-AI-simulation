@@ -28,22 +28,20 @@ Both bot A and bot B possess advanced heuristic algorithms that can infer a winn
 This process continues until there is only one teddy bear left and bot a or b loses by taking it.
 
 
-**Results**
+**Results applicable to us :smiley:**
 
-Observation 1: 
 
-**Seize the initiative, it's a 1.5x advantage**: Bot A won 1.5x more than Bot B of equal skill simply because Bot A goes first.  Taking the initiative forces player 2 into a corner from the get go.  If bot A is of greater skill forseeing the course of events (against equal skill from bot b), this advantage bumps up to 2x.
+**Seize the initiative :runner: , it's a 1.5x advantage :point_right:**: Bot A won 1.5x more than Bot B of equal skill simply because Bot A goes first.  Taking the initiative forces player 2 into a corner from the get go.  If bot A is of greater skill forseeing the course of events (against equal skill from bot b), this advantage bumps up to 2x.
 
-Observation 2:
 
-**Forsee the checkmate first! Envision farther out than your opponent**: Bot B despite having lost the initiative, won more than A, when it had greater skill.  Meaning the advantage of initiative is cancelled out when the defensive opponent has greater skill foreseeing the future.
+**Forsee the checkmate first! :raising_hand: Envision farther out than your opponent :see_no_evil:**: Bot B despite having lost the initiative, won more than A, when it had greater skill.  Meaning the advantage of initiative is cancelled out when the defensive opponent has greater skill foreseeing the future.
 
 I define seeing the future as looking down the line on a possible move and assesing each action and resulting action for a future checkmate condition. Then doing this for each possible move right now.  In other words, forseeing all the depth on all the breadth.  
 
-At this point there should be decent path to choose. And ideally it is one containing a checkmate condition. 
+At this point there should be a decent path to choose. And ideally it's one containing a checkmate condition. 
 
-This advantage increases to 1.5x despite the loss of intiative when skill is overmatched. ( Bot B - hard vs. Bot A- easy).  
+This advantage becomes 1.5x (despite the loss of intiative) when skill is overmatched. ( :robot: Bot B - hard vs. Bot A- easy :see_no_evil:).  
 
-Imagine what happens when you seize the initiative and practice forsight!
+Imagine what happens when you seize the initiative and practice forsight! :metal:
 
 
