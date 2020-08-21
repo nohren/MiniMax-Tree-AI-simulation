@@ -32,7 +32,7 @@ This process continues until there is only one teddy bear left and bot a or b lo
 
 Observation 1: 
 
-**Seizing the initiative, it's a 2x advantage**: Bot A won 2x more than Bot B of equal or lesser skill simply because Bot A goes first.
+**Seize the initiative, it's a 2x advantage**: Bot A won 2x more than Bot B of equal or lesser skill simply because Bot A goes first.
 
 Observation 2:
 
