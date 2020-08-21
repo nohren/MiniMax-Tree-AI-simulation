@@ -45,4 +45,4 @@ This advantage becomes 1.5x (despite the loss of intiative) when skill is overma
 Imagine what happens when you seize the initiative and practice forsight! :metal:
 
 
-**If you have any insights, I'd love to hear it. Add a fork to this and lets discuss!!**
+**I'd love to hear any additional insights you may have. Just add a fork to this and lets discuss!!**
