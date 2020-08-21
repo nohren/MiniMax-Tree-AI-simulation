@@ -32,7 +32,9 @@ This process continues until there is only one teddy bear left and bot a or b lo
 
 Observation 1: 
 
-**Seize the initiative, it's a 2x advantage**: Bot A won 2x more than Bot B of equal or lesser skill simply because Bot A goes first.  Taking the initiative forces player 2 into a corner from the get go.
+**Seize the initiative, it's a 1.5x advantage**: Bot A won 1.5x more than Bot B of equal skill simply because Bot A goes first.  Taking the initiative forces player 2 into a corner from the get go.  If bot A is of greater skill forseeing the course of events (against equal skill from bot b), this advantage bumps up to 2x.
 
 Observation 2:
+**Forsee the checkmate first! Envision farther out than your opponent**: Bot B despite having lost the initiative, won as much as or more than A, when it had greater skill.  Meaning the advantage of initiative is cancelled out when the defensive opponent has greater skill foreseeing the future i.e seeing the most advantagous turns for each player several moves into the future and the checkmate condition.  This increases to 1.5x advantage despite the loss of intiative when skill is overmatched. ( Bot B - hard vs. Bot A- easy).  Imagine what happens when you seize the initiative and forsee the checkmate first.
+
 
