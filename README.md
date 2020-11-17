@@ -44,5 +44,7 @@ This advantage becomes 1.5x (despite the loss of intiative) when skill is overma
 
 Imagine what happens when you seize the initiative and practice forsight! :metal:
 
+**The enemy always has a say:**: After your move, the tree of options, breadth and depth is recreated for the other team, and the opponent may choose a different path than the one you initially set out on, the with the checkmate.  Especially if it is more advantageous to the opponent.
+
 
 **Any additional insights that you see, just fork it!!**
