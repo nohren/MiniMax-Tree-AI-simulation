@@ -4,7 +4,7 @@ This simulation is based off of the "Don't take the last Teddy" game by Dr. Tim 
 **Premise**
 This is a game of taking teddy bears from bins.  For each game, the number of bins vary as do the number of bears.  This webGL game runs 100 simulations! it will take around 2 min hardware dependant to finish.  In the end you will see the breakdown of games won for each player.
 
-https://orennelson.github.io/MiniMax-Tree-AI-simulation/
+https://nohren.github.io/MiniMax-Tree-AI-simulation/
 
 **Winning condition**
 The player that leaves one last teddy bear in the bin wins.  In other words the player that takes the last teddy bear loses.  The goal is to influence the course of events so that the other player takes the last teddy bear.  The bots can see down the tree (future results of a decision) to make their decision.  It is important to note, that despite the path that a player takes, the enemy has a say, and the very next move will change that path, unless the path is "check-mate" i.e the other player has no viable winning options i.e boxed into a corner.  
