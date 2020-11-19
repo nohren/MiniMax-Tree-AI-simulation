@@ -1,8 +1,8 @@
 # :evergreen_tree: MiniMax-Tree-AI-simulation :robot:
-This simulation is based off of the "Don't take the last Teddy" game by Dr. Tim "Dr. T" Chamillard.  It is played machine against machine.  It simulates alternating levels of difficulty.  Player difficulty is determined by tree node search depth.
+This simulation is based off of the "Don't take the last Teddy" game by Dr. Tim "Dr. T" Chamillard.  It is played machine against machine and simulates alternating levels of player difficulty.  Difficulty is determined by tree node search depth.
 
 **Premise**
-This is a game of taking teddy bears from bins.  For each game, the number of bins vary as do the number of bears.  This webGL game runs 100 simulations! it will take around 2 min hardware dependant to finish.  In the end you will see the breakdown of games won for each player.
+This is a game of taking teddy bears from bins.  For each game, the number of bins vary as do the number of bears.  This webGL game runs 100 simulations! Meaning, it will take around 2 minutes, hardware dependant, to finish.  In the end you will see the breakdown of games won for each player.
 
 https://nohren.github.io/MiniMax-Tree-AI-simulation/
 
