@@ -50,11 +50,11 @@ This process continues until there is only one teddy bear left and either player
 
 **Practice foresight.  This boosts your advantage 3x :raising_hand: Envision farther out than your opponent :see_no_evil:**: player 2 beat out player 1 when it possesed greater skill, despite losing the initiative.  Meaning defensive opponents can recover with better decision making (better crystal ball/ seeing the future).
 
-fore·sight - definition
-/ˈfôrˌsīt/
-noun
-the ability to predict or the action of predicting what will happen or be needed in the future.
-"he had the foresight to check that his escape route was clear"
+**fore·sight - definition**
+**/ˈfôrˌsīt/**
+**noun**
+**the ability to predict or the action of predicting what will happen or be needed in the future.**
+**"he had the foresight to check that his escape route was clear"**
 
 Seeing the future is like looking down the line of choices horizontally as well as their action/results vertically. In other words, forseeing all the depth on all the breadth.  Alternatively, in life, you can pick your ideal destination, then recurse back up from the depth to pick the next breadth decision that gets you there. But I digress!
 
