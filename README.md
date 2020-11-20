@@ -53,13 +53,11 @@ This process continues until there is only one teddy bear left and bot a or b lo
 **Seize the initiative :runner: , it's a 1.5x advantage :point_right:**: Bot A won 1.5x more than Bot B of equal skill simply because bot A goes first.  Taking the initiative forces player 2 into a corner from the get go.  If bot A is of greater skill forseeing the course of events, this advantage bumps up to 2x.
 
 
-**Forsee the checkmate first! :raising_hand: Envision farther out than your opponent :see_no_evil:**: Bot B despite having lost the initiative, won more than A, when it had greater skill.  Meaning the advantage of initiative is cancelled out when the defensive opponent has greater skill foreseeing the future.
+**Forsee the checkmate first! This boosts your advantage 3x :raising_hand: Envision farther out than your opponent :see_no_evil:**: Bot B despite having lost the initiative, won more than A, when it had greater skill.  Meaning the advantage of initiative is cancelled out when the defensive opponent has greater skill foreseeing the future.
 
 **I define seeing the future as looking down the line vertically as well as horizontally on the next possible move and assesing each action and result for a future checkmate condition. In other words, forseeing all the depth on all the breadth.  Alternatively, in life, you can pick your ideal destination, then recurse back up from the depth to pick the next breadth decision that gets you there. But I digress!**
 
-At this point there should be a decent path to choose. And ideally it's one containing a checkmate condition. 
-
-This advantage is 3x (despite the loss of intiative) when skill is overmatched. ( :robot: Bot B - hard vs. Bot A- easy :see_no_evil:).  
+This advantage is 3x (despite the loss of intiative) when skill is overmatched. ( :robot: Bot B - hard vs. Bot A- easy :see_no_evil:).  It is a stronger advantage than initiative.
 
 Imagine what happens when you seize the initiative and practice forsight! :metal:
 
