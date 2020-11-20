@@ -1,4 +1,4 @@
-# :evergreen_tree: MiniMax-Tree-AI-simulation :robot:
+# :evergreen_tree: MiniMax-Tree-AI-simulation :robot: (Game Theory)
 This simulation is based off of the "Don't take the last Teddy" game by Dr. Tim "Dr. T" Chamillard.  It is played machine against machine and simulates alternating levels of player difficulty.  This "game" is simply for game theory observation and has no controls.
 
 **Premise**
