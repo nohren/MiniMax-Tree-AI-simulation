@@ -55,7 +55,7 @@ This process continues until there is only one teddy bear left and either player
 
 Imagine what happens when you seize the initiative and practice forsight! Boom, Check-mate! - the opposing player is out of viable options. :metal:
 
-**The enemy always has a say:** After your move, the tree of options, breadth and depth is recreated for the other team. And vice versa. A new tree is generated after each action/result cycle.  When done intentionally, this is what we call forcefully "boxing in" your opponent or intentionally reducing the acceptable options they have to choose from. Eventually they are out of good options and you win.
+**The enemy always has a say:** After your move, the tree of options, breadth and depth is recreated for the other team. And vice versa. A new tree is generated after each action/result cycle.  Keep in mind, how you saw something, isn't how it will always be. Things change quickly. Generating a new tree means being open to new conditions existing and adapting to them.
 
 **Sample data - Numbers represent wins...      Random Range of bins (2-6), random range of bears (1-6), 100 games, 8 different difficulty categories. Results are as expected.**
 
