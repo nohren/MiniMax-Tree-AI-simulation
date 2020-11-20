@@ -48,14 +48,14 @@ This process continues until there is only one teddy bear left and either player
 **Seize the initiative :runner: , it's a 1.5x+ advantage :point_right:**: player 1 won 1.5x more than Player 2 of equal skill simply because player 1 goes first.  (caveat unless they are both of easy skill- another hint to why forsight is more valueable).  Taking the initiative forces player 2 into a corner from the get go.  If player 1 is of greater skill forseeing the course of events, this is where the most possible advantage exists.
 
 
-**Forsee the checkmate first! This boosts your advantage 3x :raising_hand: Envision farther out than your opponent :see_no_evil:**: player 2 despite having lost the initiative, beat out player 1 when it had greater skill.  Meaning defensive opponents can recover with better decision making (better crystal ball/ seeing the future).
+**Practice foresight.  Predict the checkmate condition first! This boosts your advantage 3x :raising_hand: Envision farther out than your opponent :see_no_evil:**: player 2 beat out player 1 when it possesed greater skill, despite losing the initiative.  Meaning defensive opponents can recover with better decision making (better crystal ball/ seeing the future).
 
-**I define seeing the future as looking down the line vertically as well as horizontally on the next possible move and assesing each action and result for a future checkmate condition. In other words, forseeing all the depth on all the breadth.  Alternatively, in life, you can pick your ideal destination, then recurse back up from the depth to pick the next breadth decision that gets you there. But I digress!**
+I define seeing the future as looking down the line vertically as well as horizontally on the next possible move and assesing each action and result for a future checkmate condition. In other words, forseeing all the depth on all the breadth.  Alternatively, in life, you can pick your ideal destination, then recurse back up from the depth to pick the next breadth decision that gets you there. But I digress!
 
 
 Imagine what happens when you seize the initiative and practice forsight! Boom, Check-mate! - the opposing player is out of viable options. :metal:
 
-**The enemy always has a say:** After your move, the tree of options, breadth and depth is recreated for the other team. And vice versa. A new tree is generated after each action/result cycle.  Keep in mind, how you saw something, isn't how it will always be. Things change quickly. Generating a new tree means being open to new conditions existing, seeking them out, and adapting to them.  If you stop adapting, you will lose, get boxed up in a corner and be the one out of good options.  So keep creating trees after each action/result cycle.
+**The enemy always has a say:** After your move, the tree of options, breadth and depth is recreated for the other team. And vice versa. A new tree is generated after each action/result cycle.  Keep in mind, how you saw something, isn't how it will always be. Things change quickly. Generating a new tree means being open to new conditions existing, seeking them out, and adapting to them.  If you stop adapting, you will lose, get boxed up in a corner and be the one out of good options.  So keep creating trees after each action/result cycle and practice intentional forsight.
 
 **Sample data - Numbers represent wins...      Random Range of bins (2-6), random range of bears (1-6), 100 games, 8 different difficulty categories. Results are as expected.**
 
