@@ -7,7 +7,7 @@ This is a game of taking teddy bears from bins.  For each game, the number of bi
 https://nohren.github.io/MiniMax-Tree-AI-simulation/
 
 **Winning condition**
-The player that leaves one last teddy bear in the bin wins.  In other words the player that takes the last teddy bear loses.  The goal is to influence the course of events so that the other player takes the last teddy bear.  The bots can see down the tree (future results of a decision) to make their decision.  It is important to note, that despite the path that a player takes, the enemy has a say, and the very next move will change that path, unless the path is "check-mate" i.e the other player has no viable winning options i.e boxed into a corner.  
+The player that leaves one last teddy bear in the bin wins.  In other words the player that takes the last teddy bear loses.  The goal is to influence the course of events so that the other player takes the last teddy bear.  The bots can see down the tree (future results of a decision) to make their decision.  It is important to note, that despite the path that a player takes, the enemy has a say, and that the very next move will change that path, unless the path is "check-mate" (opposing player is out of viable options).
 
 **Difficulty level:**
  
@@ -19,24 +19,27 @@ The player that leaves one last teddy bear in the bin wins.  In other words the 
 
 **Inner Workings:**
 
-On bot A's turn, it will look n depth down the tree, if it spots a winning condition it will select the path that leads to this condition on it's next move. 
+On bot A's turn, it will look n depth down the tree, it spots a winning condition through recursing a winning condition up from its leaves and depending on if the parent node is maximizing or minimizing, will transmit this winning condition making a path to the very next move of the player.  Bot A will take the path with the greatest value (1).
 
-On bot B's turn, it will look n depth down the **new** tree that has been generated based off of bot A's decision.  It will choose the most advantagous decision for bot B.
+On bot B's turn, it will look n depth down the **new** tree that has been generated based off of bot A's decision.  It will choose the most advantagous decision for bot B, the path of lowest value, since it is minimizing.
 
 Both bot A and bot B possess advanced heuristic algorithms that can infer a winning condition based on a non winning conditions current state and future potential.
 
 This process continues until there is only one teddy bear left and bot a or b loses by taking it.
 
 
+
+
+
 **Results applicable to us :smiley:**
 
 
-**Seize the initiative :runner: , it's a 1.5x advantage :point_right:**: Bot A won 1.5x more than Bot B of equal skill simply because Bot A goes first.  Taking the initiative forces player 2 into a corner from the get go.  If bot A is of greater skill forseeing the course of events (against equal skill from bot b), this advantage bumps up to 2x.
+**Seize the initiative :runner: , it's a 1.5x advantage :point_right:**: Bot A won 1.5x more than Bot B of equal skill simply because bot A goes first.  Taking the initiative forces player 2 into a corner from the get go.  If bot A is of greater skill forseeing the course of events (against equal skill from bot B), this advantage bumps up to 2x.
 
 
 **Forsee the checkmate first! :raising_hand: Envision farther out than your opponent :see_no_evil:**: Bot B despite having lost the initiative, won more than A, when it had greater skill.  Meaning the advantage of initiative is cancelled out when the defensive opponent has greater skill foreseeing the future.
 
-I define seeing the future as looking down the line on a possible move and assesing each action and resulting action for a future checkmate condition. Then doing this for each possible move right now.  In other words, forseeing all the depth on all the breadth.  
+**I define seeing the future as looking down the line vertically as well as horizontally on the next possible move and assesing each action and result for a future checkmate condition. In other words, forseeing all the depth on all the breadth.  Alternatively, in life, you can pick your ideal destination, then recurse back up from the depth to pick the next breadth decision that gets you there. But I digress!**
 
 At this point there should be a decent path to choose. And ideally it's one containing a checkmate condition. 
 
@@ -44,7 +47,7 @@ This advantage becomes 1.5x (despite the loss of intiative) when skill is overma
 
 Imagine what happens when you seize the initiative and practice forsight! :metal:
 
-**The enemy always has a say:** After your move, the tree of options, breadth and depth is recreated for the other team, and the opponent may choose a different path than the one you initially set out on, the with the checkmate.  Especially if it is more advantageous to the opponent.  This means you will need to constantly adapt and practice forsight (generate new trees of action/consequence/action).
+**The enemy always has a say:** After your move, the tree of options, breadth and depth is recreated for the other team. And vice versa. A new tree is generated after each action/consequence cycle.  When done intentionally, this is what we call forcefully "boxing in" your opponent or intentionally reducing the acceptable options they have to choose from. Eventually they are out of good options and you win.
 
 
 **Any additional insights that you see, just fork it!!**
