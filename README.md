@@ -35,7 +35,7 @@ This process continues until there is only one teddy bear left and bot a or b lo
 
 <p>&nbsp;</p>
 
-**Player 1's tree as seen printed in the Unity console (No minimax score because it has not recursed yet)**
+**Player 1's tree as seen printed in the Unity console (No minimax score because it has not been recursed yet)**
 ![image](https://drive.google.com/uc?export=view&id=1MukVgZ-4hZ0awSCrFkiOw6OVIGLXYBFj)
 
 <p>&nbsp;</p>
