@@ -50,7 +50,7 @@ This process continues until there is only one teddy bear left and bot a or b lo
 **Results applicable to us :smiley:**
 
 
-**Seize the initiative :runner: , it's a 1.5x advantage :point_right:**: Bot A won 1.5x more than Bot B of equal skill simply because bot A goes first.  Taking the initiative forces player 2 into a corner from the get go.  If bot A is of greater skill forseeing the course of events (against equal skill from bot B), this advantage bumps up to 2x.
+**Seize the initiative :runner: , it's a 1.5x advantage :point_right:**: Bot A won 1.5x more than Bot B of equal skill simply because bot A goes first.  Taking the initiative forces player 2 into a corner from the get go.  If bot A is of greater skill forseeing the course of events, this advantage bumps up to 2x.
 
 
 **Forsee the checkmate first! :raising_hand: Envision farther out than your opponent :see_no_evil:**: Bot B despite having lost the initiative, won more than A, when it had greater skill.  Meaning the advantage of initiative is cancelled out when the defensive opponent has greater skill foreseeing the future.
