@@ -65,12 +65,13 @@ Imagine what happens when you seize the initiative and practice forsight! :metal
 
 **The enemy always has a say:** After your move, the tree of options, breadth and depth is recreated for the other team. And vice versa. A new tree is generated after each action/consequence cycle.  When done intentionally, this is what we call forcefully "boxing in" your opponent or intentionally reducing the acceptable options they have to choose from. Eventually they are out of good options and you win.
 
-**Sample data - Random Range of bins (2-6), random range of bears (1-6), 100 games, 8 different difficulty categories**
+**Sample data - Numbers represent wins.  
+Random Range of bins (2-6), random range of bears (1-6), 100 games, 8 different difficulty categories**
 ![image](https://drive.google.com/uc?export=view&id=1yb47WSTStES85KPqYH2O5dN5fWrn9fgr)
 
 <p>&nbsp;</p>
 
-**My Crude drawing of forcing the check mate i.e the other guy is out of options... should have thought ahead dude!**
+**My Crude drawing of forcing the check mate.  In this simple scenario, if you go first you win, assuming you know how the game is played!**
 ![image](https://drive.google.com/uc?export=view&id=1g8EQ5cubcqwOBaRYJs4h8uaUj6msO1DI)
 
 **Any additional insights that you see, just fork it!!**
