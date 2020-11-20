@@ -53,7 +53,7 @@ This process continues until there is only one teddy bear left and either player
 **I define seeing the future as looking down the line vertically as well as horizontally on the next possible move and assesing each action and result for a future checkmate condition. In other words, forseeing all the depth on all the breadth.  Alternatively, in life, you can pick your ideal destination, then recurse back up from the depth to pick the next breadth decision that gets you there. But I digress!**
 
 
-Imagine what happens when you seize the initiative and practice forsight! Check-mate! - the opposing player is out of viable options. :metal:
+Imagine what happens when you seize the initiative and practice forsight! Boom, Check-mate! - the opposing player is out of viable options. :metal:
 
 **The enemy always has a say:** After your move, the tree of options, breadth and depth is recreated for the other team. And vice versa. A new tree is generated after each action/result cycle.  When done intentionally, this is what we call forcefully "boxing in" your opponent or intentionally reducing the acceptable options they have to choose from. Eventually they are out of good options and you win.
 
