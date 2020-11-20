@@ -59,7 +59,7 @@ This process continues until there is only one teddy bear left and bot a or b lo
 
 At this point there should be a decent path to choose. And ideally it's one containing a checkmate condition. 
 
-This advantage becomes 1.5x (despite the loss of intiative) when skill is overmatched. ( :robot: Bot B - hard vs. Bot A- easy :see_no_evil:).  
+This advantage is 3x (despite the loss of intiative) when skill is overmatched. ( :robot: Bot B - hard vs. Bot A- easy :see_no_evil:).  
 
 Imagine what happens when you seize the initiative and practice forsight! :metal:
 
