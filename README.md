@@ -31,6 +31,9 @@ This process continues until there is only one teddy bear left and bot a or b lo
 
 ![image](https://drive.google.com/uc?export=view&id=1TmYRmUjQyiRQUbEfTMYjeanQE0k1RhO5)
 
+<p>&nbsp;</p>
+
+**Player 1's tree as seen printed in the Unity console**
 ![image](https://drive.google.com/uc?export=view&id=1MukVgZ-4hZ0awSCrFkiOw6OVIGLXYBFj)
 
 <p>&nbsp;</p>
