@@ -56,7 +56,7 @@ This process continues until there is only one teddy bear left and either player
 **- the ability to predict or the action of predicting what will happen or be needed in the future.**
 **"he had the foresight to check that his escape route was clear"**
 
-Seeing the future is like looking down the line of choices horizontally as well as their action/results vertically. In other words, forseeing all the depth on all the breadth.  Alternatively, in life, you can pick your ideal destination, then recurse back up from the depth to pick the next breadth decision that gets you there. But I digress!
+Seeing the future is like looking down the line of choices horizontally as well as their action/results vertically. In other words, forseeing all the breadth and all their depth.  Alternatively, it may be easier in life to envision the desired outcome and then recurse back up from the depths to pick the next breadth decision that leads you there. This avoids having to generate many multiples of current choices (breadth) and getting swamped in their depth.  The whole reason to generate this tree is because the winning condiiton is unknown.  If it's known, just recurse back up to the best decision right now.
 
 
 Imagine what happens when you seize the initiative and practice forsight! Boom, Check-mate! - the opposing player is out of viable options. :metal:
