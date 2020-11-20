@@ -22,7 +22,7 @@ On player 2's turn, it will look n depth down the **new** tree that has been gen
 
 Both player 1 and player 2 have heuristics that can infer a winning condition from non winning conditions.
 
-This process continues until there is only one teddy bear left and bot a or b loses by taking it.
+This process continues until there is only one teddy bear left and either player 1 or player 2 loses by taking it.
 
 **Example Tree**
 
