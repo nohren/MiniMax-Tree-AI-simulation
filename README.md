@@ -31,10 +31,10 @@ This process continues until there is only one teddy bear left and bot a or b lo
 
 ![image](https://drive.google.com/uc?export=view&id=1TmYRmUjQyiRQUbEfTMYjeanQE0k1RhO5)
 
-**What it looks like in Unity**
 ![image](https://drive.google.com/uc?export=view&id=1MukVgZ-4hZ0awSCrFkiOw6OVIGLXYBFj)
-
-
+&nbsp;
+**This is with MiniMax visualization**
+![image](https://drive.google.com/uc?export=view&id=1ClKM6nRTqeKxNnG0Jk3NiNLcaJEmr8vO)
 
 
 
@@ -56,6 +56,8 @@ This advantage becomes 1.5x (despite the loss of intiative) when skill is overma
 Imagine what happens when you seize the initiative and practice forsight! :metal:
 
 **The enemy always has a say:** After your move, the tree of options, breadth and depth is recreated for the other team. And vice versa. A new tree is generated after each action/consequence cycle.  When done intentionally, this is what we call forcefully "boxing in" your opponent or intentionally reducing the acceptable options they have to choose from. Eventually they are out of good options and you win.
+
+**Sample data 
 
 
 **Any additional insights that you see, just fork it!!**
