@@ -30,7 +30,9 @@ This process continues until there is only one teddy bear left and bot a or b lo
 **Example Tree**
 
 ![image](https://drive.google.com/uc?export=view&id=1TmYRmUjQyiRQUbEfTMYjeanQE0k1RhO5)
-![image](https://drive.google.com/uc?export=view&id=1MukVgZ-4hZ0awSCrFkiOw6OVIGLXYBFj/view)
+
+**What it looks like in Unity**
+![image](https://drive.google.com/uc?export=view&id=1MukVgZ-4hZ0awSCrFkiOw6OVIGLXYBFj)
 
 
 
