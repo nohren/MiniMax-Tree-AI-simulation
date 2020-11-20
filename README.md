@@ -13,7 +13,7 @@ https://nohren.github.io/MiniMax-Tree-AI-simulation/
  Medium - depth 4 
  
  Hard - depth 5
-"check-mate" (opposing player is out of viable options).
+
 **Inner Workings:**
 
 On player 1's turn, it will look n depth down the tree, it can spot a winning condition through recursion.  A winning condition is recursed up from its leaves, depending on if the next node higher likes that condition (maximizing or minimizing), and will transmit the winning condition to the top of the tree.  Player 1 will take the path with the greatest value (1).
@@ -45,15 +45,15 @@ This process continues until there is only one teddy bear left and either player
 **Results applicable to us :smiley:**
 
 
-**Seize the initiative :runner: , it's a 1.5x advantage :point_right:**: Bot A won 1.5x more than Bot B of equal skill simply because bot A goes first.  (caveat unless they are both of easy skill- this why forsight is more valueable).  Taking the initiative forces player 2 into a corner from the get go.  If bot A is of greater skill forseeing the course of events, this advantage bumps up to 2x.
+**Seize the initiative :runner: , it's a 1.5x+ advantage :point_right:**: player 1 won 1.5x more than Player 2 of equal skill simply because player 1 goes first.  (caveat unless they are both of easy skill- another hint to why forsight is more valueable).  Taking the initiative forces player 2 into a corner from the get go.  If player 1 is of greater skill forseeing the course of events, this is where the most possible advantage exists.
 
 
-**Forsee the checkmate first! This boosts your advantage 3x :raising_hand: Envision farther out than your opponent :see_no_evil:**: Bot B despite having lost the initiative, won more than A, when it had greater skill.  Meaning the advantage of initiative is cancelled out when the defensive opponent has greater skill foreseeing the future.
+**Forsee the checkmate first! This boosts your advantage 3x :raising_hand: Envision farther out than your opponent :see_no_evil:**: player 2 despite having lost the initiative, beat out player 1 when it had greater skill.  Meaning defensive opponents can recover with better decision making (better crystal ball/ seeing the future).
 
 **I define seeing the future as looking down the line vertically as well as horizontally on the next possible move and assesing each action and result for a future checkmate condition. In other words, forseeing all the depth on all the breadth.  Alternatively, in life, you can pick your ideal destination, then recurse back up from the depth to pick the next breadth decision that gets you there. But I digress!**
 
 
-Imagine what happens when you seize the initiative and practice forsight! :metal:
+Imagine what happens when you seize the initiative and practice forsight! Check-mate! - the opposing player is out of viable options. :metal:
 
 **The enemy always has a say:** After your move, the tree of options, breadth and depth is recreated for the other team. And vice versa. A new tree is generated after each action/result cycle.  When done intentionally, this is what we call forcefully "boxing in" your opponent or intentionally reducing the acceptable options they have to choose from. Eventually they are out of good options and you win.
 
