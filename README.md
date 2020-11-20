@@ -53,7 +53,7 @@ This process continues until there is only one teddy bear left and either player
 **fore·sight - definition**
 **/ˈfôrˌsīt/**
 **noun**
-**the ability to predict or the action of predicting what will happen or be needed in the future.**
+**- the ability to predict or the action of predicting what will happen or be needed in the future.**
 **"he had the foresight to check that his escape route was clear"**
 
 Seeing the future is like looking down the line of choices horizontally as well as their action/results vertically. In other words, forseeing all the depth on all the breadth.  Alternatively, in life, you can pick your ideal destination, then recurse back up from the depth to pick the next breadth decision that gets you there. But I digress!
