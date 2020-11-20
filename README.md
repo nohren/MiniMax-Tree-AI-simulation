@@ -48,7 +48,7 @@ This process continues until there is only one teddy bear left and either player
 **Seize the initiative :runner: , it's a 1.5x+ advantage :point_right:**: player 1 won 1.5x more than Player 2 of equal skill simply because player 1 goes first.  (caveat unless they are both of easy skill- another hint to why forsight is more valueable).  Taking the initiative forces player 2 into a corner from the get go.  If player 1 is of greater skill forseeing the course of events, this is where the most possible advantage exists.
 
 
-**Practice foresight.  This boosts your advantage 3x :raising_hand: Envision farther out than your opponent :see_no_evil:**: player 2 beat out player 1 when it possesed greater skill, despite losing the initiative.  Meaning defensive opponents can recover with better decision making (better crystal ball/ seeing the future).
+**Practice foresight.  This boosts your advantage 3x :raising_hand: Envision farther out than your opponent :see_no_evil:**: player 2 beat out player 1 when it possesed greater skill, despite having lost the initiative.  Meaning defensive opponents with better crystal balls for seeing the future do better regardless of initiative.
 
 **fore·sight - definition**
 **/ˈfôrˌsīt/**
